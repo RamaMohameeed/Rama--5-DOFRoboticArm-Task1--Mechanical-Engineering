@@ -1,4 +1,4 @@
-# 5 DOF RoboticArm -Task1- Mechanical Engineering
+# 5 DOF Robotic Arm -Task1- Mechanical Engineering
 
 Welcome to the **5 Degrees of Freedom (DOF) Robotic Arm** project!  
 
